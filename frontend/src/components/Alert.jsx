@@ -14,7 +14,7 @@ const Alert = ({ onClick: handleClick }) => {
                 }}
                 onClick={handleClick}
             >
-                Aceptar
+                Reintentar
             </button>
         </div>
     )
